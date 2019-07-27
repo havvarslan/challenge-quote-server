@@ -1,0 +1,26 @@
+{
+  "name": "challenge-quote-server",
+  "version": "1.0.0",
+  "description": "### How long will this take?",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/havvarslan/cyf-node-challenges/tree/master/challenge-chat-server.git"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/havvarslan/node-api-workshop/issues"
+  },
+  "homepage": "https://github.com/havvarslan/node-api-workshop#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.14"
+  }
+}
